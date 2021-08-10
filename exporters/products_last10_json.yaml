@@ -1,0 +1,6 @@
+exporter_name: products_last10_json # Must be unique
+exporter_type: json
+collection: products
+write_mode: pretty_array # can be `line`,`pretty`, `pretty_array`, or `array`
+limit: 10 # limits to how many records to export
+offset: 0

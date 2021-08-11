@@ -15,3 +15,6 @@ exporters:
     disabled: false
   - file: ./exporters/products_csv.yaml
     disabled: false
+finisher:
+  file: ./finisher/finisher.rb
+  disabled: false
